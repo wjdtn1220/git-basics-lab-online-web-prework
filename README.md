@@ -85,7 +85,7 @@ tests. If you navigate into a new folder, make sure to use `cd ..` until you're
 back in the `git-basics-lab` folder before running `learn`.
 
 ### Steps
-
+co
 1. Create a new folder locally named `my-repository`. This folder should be side
    by side with the `test` folder of this lab.
 
